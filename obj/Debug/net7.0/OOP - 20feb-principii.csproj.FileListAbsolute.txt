@@ -1,0 +1,14 @@
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\obj\Debug\net7.0\OOP - 20feb-principii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\obj\Debug\net7.0\OOP - 20feb-principii.AssemblyInfoInputs.cache
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\obj\Debug\net7.0\OOP - 20feb-principii.AssemblyInfo.cs
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\obj\Debug\net7.0\OOP - 20feb-principii.csproj.CoreCompileInputs.cache
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\bin\Debug\net7.0\OOP - 20feb-principii.exe
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\bin\Debug\net7.0\OOP - 20feb-principii.deps.json
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\bin\Debug\net7.0\OOP - 20feb-principii.runtimeconfig.json
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\bin\Debug\net7.0\OOP - 20feb-principii.dll
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\bin\Debug\net7.0\OOP - 20feb-principii.pdb
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\obj\Debug\net7.0\OOP - 20feb-principii.dll
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\obj\Debug\net7.0\refint\OOP - 20feb-principii.dll
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\obj\Debug\net7.0\OOP - 20feb-principii.pdb
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\obj\Debug\net7.0\OOP - 20feb-principii.genruntimeconfig.cache
+C:\Users\PAS\Desktop\Automation Testing\Automation Training Sessions\OOP - 20feb-principii\obj\Debug\net7.0\ref\OOP - 20feb-principii.dll
